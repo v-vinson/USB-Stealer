@@ -1,0 +1,9 @@
+F:\编程项目\Stealer\Stealer\bin\Release\Stealer.exe
+F:\编程项目\Stealer\Stealer\bin\Release\Stealer.pdb
+F:\编程项目\Stealer\Stealer\obj\Release\Stealer.Stealer.resources
+F:\编程项目\Stealer\Stealer\obj\Release\Stealer.Properties.Resources.resources
+F:\编程项目\Stealer\Stealer\obj\Release\Stealer.csproj.GenerateResource.cache
+F:\编程项目\Stealer\Stealer\obj\Release\Stealer.csproj.CoreCompileInputs.cache
+F:\编程项目\Stealer\Stealer\obj\Release\Stealer.exe
+F:\编程项目\Stealer\Stealer\obj\Release\Stealer.pdb
+F:\编程项目\Stealer\Stealer\obj\Release\Stealer.csprojAssemblyReference.cache
